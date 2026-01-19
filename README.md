@@ -1,5 +1,4 @@
 ## Customer Segmentation Project
-
 End-to-end customer segmentation using transactional data to derive **business-ready customer groups**.
 
 The project covers data preparation, RFM-based feature engineering, unsupervised clustering, and segment-level interpretation, with a focus on **reproducibility and interpretability**.
@@ -11,15 +10,15 @@ The project covers data preparation, RFM-based feature engineering, unsupervised
 - Cluster profiling and business insights  
 
 ### Structure
-S_01.ipynb – Data setup
-S_02.ipynb – Data merging & aggregation
-S_03.ipynb – RFM feature engineering
-S_04.ipynb – Clustering & evaluation
-S_05.ipynb – Insights & profiling
-
+- S_01.ipynb – Data setup
+- S_02.ipynb – Data merging & aggregation
+- S_03.ipynb – RFM feature engineering
+- S_04.ipynb – Clustering & evaluation
+- S_05.ipynb – Insights & profiling
 
 ## Outcome
 Actionable customer segments that can be used for **targeted marketing, retention, and customer prioritization**.
 
 > Output plots are WRT to results analyzed from current data, hence subject to changes.
+
 > Raw an intermediate datasets are excluded due to confidentiality.
