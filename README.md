@@ -21,4 +21,5 @@ S_05.ipynb – Insights & profiling
 ## Outcome
 Actionable customer segments that can be used for **targeted marketing, retention, and customer prioritization**.
 
-> Raw datasets are excluded due to confidentiality.
+> Output plots are WRT to results analyzed from current data, hence subject to changes.
+> Raw an intermediate datasets are excluded due to confidentiality.
