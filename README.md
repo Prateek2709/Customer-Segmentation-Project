@@ -1,5 +1,5 @@
 ## Customer Segmentation Project
-End-to-end customer segmentation using transactional data to derive **business-ready customer groups**.
+This is an end-to-end customer segmentation using transactional data to derive **business-ready customer groups**.
 
 The project covers data preparation, RFM-based feature engineering, unsupervised clustering, and segment-level interpretation, with a focus on **reproducibility and interpretability**.
 
